@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Maxim Malinin. I did my B.Sc. in Economic Sciences at Democritus University of Thrace, Greece and my M.Sc. in Environmental Engineering at Chongqing University, China P.R.. Currently, I am doing my internship as Data Analyst at Yandex LLC(https://yandex.com/company/general_info/yandex_today).
-- 👀 I’m interested in Data Analysis, Machine Learning and Data Science
-- 🌱 I’m currently learning Data Analytics at Yandex LLC.
+- 👋 Hi, I’m Maxim Malinin. I did my B.Sc. in Economic Sciences at Democritus University of Thrace, Greece and my M.Sc. in Environmental Engineering at Chongqing University, China P.R.. I did my internship as Data Analyst at Yandex LLC(https://yandex.com/company/general_info/yandex_today). I am currently woeking at [Baqend GmbH](https://www.baqend.com/)
+- 👀 I’m interested in Data Analysis, Machine Learning and Data Science.
 - 🏢 I am open to new job opportunities and challenges.
 - 📫 How to reach me:
   * 📧: mxmmalinin@gmail.com
